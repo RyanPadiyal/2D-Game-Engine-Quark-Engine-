@@ -1,0 +1,26 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\work\\c++\\consoleapplication1\\imgui\\imconfig.h",
+        "ProvidedModule": "",
+        "Includes": [
+            "d:\\work\\c++\\consoleapplication1\\imgui\\imconfig-sfml.h",
+            "d:\\work\\c++\\consoleapplication1\\libraries\\include\\sfml\\graphics\\color.hpp",
+            "d:\\work\\c++\\consoleapplication1\\libraries\\include\\sfml\\graphics\\export.hpp",
+            "d:\\work\\c++\\consoleapplication1\\libraries\\include\\sfml\\config.hpp",
+            "d:\\work\\c++\\consoleapplication1\\libraries\\include\\sfml\\system\\vector2.hpp",
+            "d:\\work\\c++\\consoleapplication1\\libraries\\include\\sfml\\system\\vector2.inl",
+            "c:\\program files\\microsoft visual studio\\18\\community\\vc\\tools\\msvc\\14.51.36231\\include\\cstdint",
+            "c:\\program files\\microsoft visual studio\\18\\community\\vc\\tools\\msvc\\14.51.36231\\include\\yvals_core.h",
+            "c:\\program files\\microsoft visual studio\\18\\community\\vc\\tools\\msvc\\14.51.36231\\include\\vcruntime.h",
+            "c:\\program files\\microsoft visual studio\\18\\community\\vc\\tools\\msvc\\14.51.36231\\include\\sal.h",
+            "c:\\program files\\microsoft visual studio\\18\\community\\vc\\tools\\msvc\\14.51.36231\\include\\concurrencysal.h",
+            "c:\\program files\\microsoft visual studio\\18\\community\\vc\\tools\\msvc\\14.51.36231\\include\\vadefs.h",
+            "c:\\program files\\microsoft visual studio\\18\\community\\vc\\tools\\msvc\\14.51.36231\\include\\xkeycheck.h",
+            "c:\\program files\\microsoft visual studio\\18\\community\\vc\\tools\\msvc\\14.51.36231\\include\\stdint.h",
+            "d:\\work\\c++\\consoleapplication1\\imgui\\imgui-sfml_export.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
